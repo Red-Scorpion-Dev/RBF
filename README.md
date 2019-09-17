@@ -1,5 +1,5 @@
-* Author  : Red Scorpion & Black Scorpion &Firemisk
+* Author  : Red Scorpion 
 * Support : https://www.red-scorpion.org 
 * GitHub  : https://github.com/Red-Scorpion-dev
-[*] Decompiled by Red Scorpion & Black Scorpion &Firemisk
+* Decompiled by Red Scorpion & Black Scorpion & Firemisk
 
